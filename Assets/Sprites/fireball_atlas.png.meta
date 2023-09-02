@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: cfa6f11dbf62bed4bac0cc3208253170
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireball_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 43
+        width: 475
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928d272738a3d164180a763a5a8d6b7e
+      internalID: -1897480906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 52
+        width: 443
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb38f72a8463ae48b803721bdec9dd4
+      internalID: 97769411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 33
+        width: 466
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8270811014e114e923acd80a46a1e9
+      internalID: 2085852993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 39
+        width: 464
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5835dece527499843800cf8eeb865bec
+      internalID: 572208021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 38
+        width: 450
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930745cd199235a41a90deda98bfca8d
+      internalID: 1795685384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 42
+        width: 479
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806e3c92810be6148ba1f6d3564086b2
+      internalID: -449824499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 279
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158786e079a2ff649b07ede6ff4cb2f1
+      internalID: 529211776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fireball_atlas_0: -565420209
+      fireball_atlas_1: -177091214
+      fireball_atlas_10: -1050552810
+      fireball_atlas_100: 13527303
+      fireball_atlas_101: 1520254316
+      fireball_atlas_102: -1297777809
+      fireball_atlas_103: 47209920
+      fireball_atlas_104: -657165862
+      fireball_atlas_105: 1614119632
+      fireball_atlas_106: -454682114
+      fireball_atlas_107: -517565300
+      fireball_atlas_108: -616827334
+      fireball_atlas_109: -999207824
+      fireball_atlas_11: -1968434102
+      fireball_atlas_110: -900287624
+      fireball_atlas_111: 354384988
+      fireball_atlas_112: -1878960169
+      fireball_atlas_113: -612601411
+      fireball_atlas_114: 2052743869
+      fireball_atlas_115: 108222706
+      fireball_atlas_116: -1193939907
+      fireball_atlas_117: -25628165
+      fireball_atlas_118: -1683615093
+      fireball_atlas_119: -2116408175
+      fireball_atlas_12: -1463361167
+      fireball_atlas_120: -420731352
+      fireball_atlas_121: 1696852017
+      fireball_atlas_122: -940183468
+      fireball_atlas_123: -1848636837
+      fireball_atlas_124: 1800961634
+      fireball_atlas_125: 1588468430
+      fireball_atlas_126: 481849645
+      fireball_atlas_127: 644895679
+      fireball_atlas_128: -340012226
+      fireball_atlas_129: -394361084
+      fireball_atlas_13: 129098493
+      fireball_atlas_130: 75163561
+      fireball_atlas_131: 862376308
+      fireball_atlas_132: 1357582787
+      fireball_atlas_133: 1525805247
+      fireball_atlas_134: 106540736
+      fireball_atlas_135: -1975118615
+      fireball_atlas_136: 2030790240
+      fireball_atlas_137: 1254514966
+      fireball_atlas_138: 74654168
+      fireball_atlas_139: 1379740033
+      fireball_atlas_14: 1628920898
+      fireball_atlas_140: 1016274731
+      fireball_atlas_141: 677653402
+      fireball_atlas_142: 1126340807
+      fireball_atlas_143: -1791875826
+      fireball_atlas_144: 1831941812
+      fireball_atlas_145: -180302116
+      fireball_atlas_146: -1001421028
+      fireball_atlas_147: 408422738
+      fireball_atlas_148: 1924692005
+      fireball_atlas_149: 1749270482
+      fireball_atlas_15: -1479001168
+      fireball_atlas_16: -1753376645
+      fireball_atlas_17: 499605760
+      fireball_atlas_18: 893945605
+      fireball_atlas_19: -538952640
+      fireball_atlas_2: -2006206454
+      fireball_atlas_20: 1787100032
+      fireball_atlas_21: -1189960957
+      fireball_atlas_22: -1077126397
+      fireball_atlas_23: -706081723
+      fireball_atlas_24: 1396571050
+      fireball_atlas_25: 553803288
+      fireball_atlas_26: -1912770869
+      fireball_atlas_27: -2023030736
+      fireball_atlas_28: -1897480906
+      fireball_atlas_29: 1369836404
+      fireball_atlas_3: -931460906
+      fireball_atlas_30: 97769411
+      fireball_atlas_31: 2085852993
+      fireball_atlas_32: 572208021
+      fireball_atlas_33: 1795685384
+      fireball_atlas_34: -449824499
+      fireball_atlas_35: 231497930
+      fireball_atlas_36: -627799075
+      fireball_atlas_37: 458391255
+      fireball_atlas_38: -1353523472
+      fireball_atlas_39: 406961504
+      fireball_atlas_4: 1917942069
+      fireball_atlas_40: 881473254
+      fireball_atlas_41: 635226193
+      fireball_atlas_42: 878241396
+      fireball_atlas_43: 979889157
+      fireball_atlas_44: -1454917221
+      fireball_atlas_45: -524782736
+      fireball_atlas_46: -428448539
+      fireball_atlas_47: -198880266
+      fireball_atlas_48: -1199508827
+      fireball_atlas_49: -321816263
+      fireball_atlas_5: -128503417
+      fireball_atlas_50: -1996360076
+      fireball_atlas_51: 629385540
+      fireball_atlas_52: -1778484638
+      fireball_atlas_53: 721137701
+      fireball_atlas_54: -1668147445
+      fireball_atlas_55: 529211776
+      fireball_atlas_56: -552052926
+      fireball_atlas_57: 906988356
+      fireball_atlas_58: 393386372
+      fireball_atlas_59: 1136333046
+      fireball_atlas_6: 713744023
+      fireball_atlas_60: -443655412
+      fireball_atlas_61: -44789367
+      fireball_atlas_62: 342844081
+      fireball_atlas_63: 133125000
+      fireball_atlas_64: -840219928
+      fireball_atlas_65: 1035077354
+      fireball_atlas_66: -818626338
+      fireball_atlas_67: 538298476
+      fireball_atlas_68: 425470198
+      fireball_atlas_69: -172399172
+      fireball_atlas_7: -796378548
+      fireball_atlas_70: 1323736268
+      fireball_atlas_71: 1915011342
+      fireball_atlas_72: 1619947926
+      fireball_atlas_73: -1417334829
+      fireball_atlas_74: -231869072
+      fireball_atlas_75: 1267331672
+      fireball_atlas_76: 1588939472
+      fireball_atlas_77: -533969610
+      fireball_atlas_78: 343055048
+      fireball_atlas_79: -18290617
+      fireball_atlas_8: 2055339380
+      fireball_atlas_80: -45405666
+      fireball_atlas_81: -1961956954
+      fireball_atlas_82: 21321070
+      fireball_atlas_83: -774191220
+      fireball_atlas_84: 1448889054
+      fireball_atlas_85: -436274376
+      fireball_atlas_86: -1235313122
+      fireball_atlas_87: 476801781
+      fireball_atlas_88: -1880496367
+      fireball_atlas_89: -1660846077
+      fireball_atlas_9: -1390000035
+      fireball_atlas_90: -988414254
+      fireball_atlas_91: -659694415
+      fireball_atlas_92: -917385445
+      fireball_atlas_93: -1342634169
+      fireball_atlas_94: -876007673
+      fireball_atlas_95: -721747613
+      fireball_atlas_96: 365068340
+      fireball_atlas_97: -630176213
+      fireball_atlas_98: 2005854745
+      fireball_atlas_99: 1962162336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
