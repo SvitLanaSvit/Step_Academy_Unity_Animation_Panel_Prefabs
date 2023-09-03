@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hell.unity
     guid: c17e930048922834dbd0142b7f92716f
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 10bfa9deb9b7c0d419037ed93ed833d5
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: fc81e4a32faf61642bad1ede423e8970
   m_configObjects: {}
