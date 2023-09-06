@@ -11,12 +11,14 @@ public class Run : MonoBehaviour
     private SpriteRenderer sr;
     public static int countCoin = 0;
     public Text scoreText;
+    private Animator animator;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -28,6 +30,11 @@ public class Run : MonoBehaviour
             var position = transform.position;
             position += Vector3.right * right * Time.deltaTime * speed;
             rb.MovePosition(position);
+            animator.SetBool("Run", true);
+        }
+        else
+        {
+            animator.SetBool("Run", false);
         }
 
         if (right < 0)
